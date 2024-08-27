@@ -1,1 +1,3 @@
 # piso-tatil-e-placas-em-braile
+
+## O seguinte projeto tem como objetivo tornar o ambiente acadêmico da Universidade Federal Fluminense (UFF) de Rio das Ostras mais acessível para deficientes visuais. Para isso, será desenvolvido um piso tátil e placas em braile que proporcionem acesso, direção e informações adequadas para esse público alvo. O foco principal é criar um projeto de instalação de piso tátil e criação de placas em braile no prédio do Instituto de Ciências e Tecnologia que sejam de fácil reprodução e sustentável, permitindo a reprodução acessível, podendo ser executado em casa. Em adição, um comparativo econômico será desenvolvido, visando encontrar a alternativa mais viável financeiramente
